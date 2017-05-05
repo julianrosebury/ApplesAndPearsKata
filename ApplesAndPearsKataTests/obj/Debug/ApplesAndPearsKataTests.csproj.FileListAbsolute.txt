@@ -1,0 +1,13 @@
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\ApplesAndPearsKataTests.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\ApplesAndPearsKataTests.pdb
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\ApplesAndPearsKata.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\Castle.Core.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\Moq.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\nunit.framework.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\ApplesAndPearsKata.pdb
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\Castle.Core.xml
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\Moq.xml
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\bin\Debug\nunit.framework.xml
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\obj\Debug\ApplesAndPearsKataTests.csprojResolveAssemblyReference.cache
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\obj\Debug\ApplesAndPearsKataTests.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKataTests\obj\Debug\ApplesAndPearsKataTests.pdb

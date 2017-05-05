@@ -1,0 +1,5 @@
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKata\bin\Debug\ApplesAndPearsKata.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKata\bin\Debug\ApplesAndPearsKata.pdb
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKata\obj\Debug\ApplesAndPearsKata.csprojResolveAssemblyReference.cache
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKata\obj\Debug\ApplesAndPearsKata.dll
+C:\Workarea\tutorials\Katas\ApplesAndPears\ApplesAndPearsKata\ApplesAndPearsKata\obj\Debug\ApplesAndPearsKata.pdb
